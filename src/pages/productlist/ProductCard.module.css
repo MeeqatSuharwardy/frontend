@@ -6,10 +6,14 @@
 
 .productCard {
   width: 100%;
-  box-sizing: content-box;
-  background-color: white;
+  box-sizing: border-box;
+  padding: 1rem;
+  display: flex;
+  flex-direction: column;
   align-items: center;
-  padding-left: 10%;
+  background-color: white; /* Set background color to white */
+  border-radius: 8px; /* Add border radius for a rounded appearance */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Add a subtle box shadow */
 }
 
 .textcustom {
