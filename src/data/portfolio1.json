@@ -1,0 +1,114 @@
+{
+  "filtersName": [
+    {
+      "id": 1,
+      "name": "FURNITURE",
+      "filterClass": ".fURNITURE",
+      "content": "FURNITURE"
+    },
+    {
+      "id": 2,
+      "name": "Living",
+      "filterClass": ".living",
+      "content": "Living"
+    },
+    {
+      "id": 3,
+      "name": "Kitchen",
+      "filterClass": ".kitchen",
+      "content": "Kitchen"
+    },
+    {
+      "id": 4,
+      "name": "Dining",
+      "filterClass": ".dining",
+      "content": "Dining"
+    },
+    {
+      "id": 5,
+      "name": "Bathroom",
+      "filterClass": ".bathroom",
+      "content": "Bathroom"
+    },
+    {
+      "id": 6,
+      "name": "Bedroom",
+      "filterClass": ".bedroom",
+      "content": "Bedroom"
+    }
+  ],
+  "portfolio": [
+    {
+      "id": 1,
+      "image": "/assets/img/portfolio/mas/furniture/3.jpg",
+      "title": "FURNITURE",
+      "tag": "fURNITURE",
+      "filterClass": "fURNITURE",
+      "category": "theaters",
+      "type": "Type1",
+      "style": "Style1",
+      "description": "Description1",
+      "link": "/Furniture-project-details/"
+    },
+    {
+      "id": 2,
+      "image": "/assets/img/portfolio/mas/living/2.jpg",
+      "title": "Living",
+      "tag": "living",
+      "filterClass": "living",
+      "category": "residential",
+      "type": "Type2",
+      "style": "Style2",
+      "description": "Description2",
+      "link": "/Living-project-details/"
+    },
+    {
+      "id": 4,
+      "image": "/assets/img/portfolio/mas/dining/3.jpeg",
+      "title": "Dining",
+      "tag": "dining",
+      "filterClass": "dining",
+      "category": "theaters",
+      "type": "Type3",
+      "style": "Style3",
+      "description": "Description3",
+      "link": "/Dining-project-details/"
+    },
+    {
+      "id": 3,
+      "image": "/assets/img/portfolio/mas/kitchen/3.jpg",
+      "title": "Kitchen",
+      "tag": "kitchen",
+      "filterClass": "kitchen",
+      "category": "theaters",
+      "type": "Type3",
+      "style": "Style3",
+      "description": "Description4",
+      "link": "/kitchen-project-details/"
+    },
+    {
+      "id": 5,
+      "image": "/assets/img/portfolio/mas/bathroom/1.png",
+      "title": "Bathroom",
+      "tag": "bathroom",
+      "filterClass": "bathroom",
+      "category": "theaters",
+      "type": "Type3",
+      "style": "Style3",
+      "description": "Description4",
+      "link": "/Bathroom-project-details/"
+    },
+    {
+      "id": 5,
+      "image": "/assets/img/portfolio/mas/bedroom/1.png",
+      "title": "Bedroom",
+      "tag": "bedroom",
+      "filterClass": "bedroom",
+      "category": "theaters",
+      "type": "Type3",
+      "style": "Style3",
+      "description": "Description4",
+      "link": "/Bedroom-project-details/"
+    }
+  ]
+}

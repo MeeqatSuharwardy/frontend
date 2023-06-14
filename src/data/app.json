@@ -1,0 +1,9 @@
+{
+  "lightLogo": "/assets/img/logo/newlogo.png",
+  "darkLogo": "/assets/img/logo/darklogo.png",
+  "mapIframe": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2483.3464556805884!2d-0.24153618423929427!3d51.506859579634984!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48760e2db3e50b2d%3A0x5c8feb41479b6bec!2sUxbridge%20Rd%2C%20London%20W12%200NS!5e0!3m2!1sen!2suk!4v1680397820700!5m2!1sen!2suk",
+  "showLoading": true,
+  "newlogo": "/assets/img/logo/newlogo.png"
+}
+
+

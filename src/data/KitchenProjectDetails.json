@@ -1,0 +1,49 @@
+{
+    "image": "/assets/img/portfolio/mas/kitchen/kitchenbg3.png",
+    "images": [
+      {
+        "src": "/assets/img/portfolio/mas/kitchen/1.jpeg",
+        "alt": "Kitchen image 1"
+      },
+      {
+        "src": "/assets/img/portfolio/mas/kitchen/2.jpeg",
+        "alt": "Kitchen image 2"
+      },
+      {
+        "src": "/assets/img/portfolio/mas/kitchen/3.jpg",
+        "alt": "Kitchen image 3"
+      },
+      {
+        "src": "/assets/img/portfolio/mas/kitchen/4.jpg",
+        "alt": "Kitchen image 4"
+      },
+      {
+        "src": "/assets/img/portfolio/mas/kitchen/5.jpg",
+        "alt": "Kitchen image 5"
+      }
+    ],
+    "text": "At Mundo we believe the Kitchen is the heart of our home. Therefore, these spaces need to meet our client requirements, suit their lifestyle as well as being highly practical and the design layout allows to be multi-functional space, as well as aesthetically pleasing.Our kitchen design concepts ensure adequate attention to lighting, storage, availability of proper prep working surfaces, spatial ergonomic distribution for dine in kitchens, entertaining, socialising, living in most of the cases a seating space.We also design open counter commercial kitchens that allow your employees the room to work while giving your customers a view of the prep from comfortable seating in a visually appealing environment.",
+    "client": "Private",
+    "Date": "6 August 2022",
+    "categories": [
+        {
+          "name": "Kitchen",
+          "url": "#"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Minimal",
+          "url": "#"
+        },
+        {
+          "name": "Moderen",
+          "url": "#"
+        },
+        {
+          "name": "Design",
+          "url": "#"
+        }
+      ]
+  }
+  

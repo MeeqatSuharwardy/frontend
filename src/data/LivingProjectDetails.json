@@ -1,0 +1,49 @@
+{
+    "image": "/assets/img/portfolio/mas/living/livingbg3.png",
+    "images": [
+      {
+        "src": "/assets/img/portfolio/mas/living/1.jpg",
+        "alt": "Living image 1"
+      },
+      {
+        "src": "/assets/img/portfolio/mas/living/2.jpg",
+        "alt": "Living image 2"
+      },
+      {
+        "src": "/assets/img/portfolio/mas/living/3.jpg",
+        "alt": "Living image 3"
+      },
+      {
+        "src": "/assets/img/portfolio/mas/living/4.jpg",
+        "alt": "Living image 4"
+      },
+      {
+        "src": "/assets/img/portfolio/mas/living/5.jpg",
+        "alt": "Living image 5"
+      }
+    ],
+    "text": "Living rooms or common spaces within residences or other setups are required to offer a degree of comfort and functionality, while being suitable to high traffic and frequent use. Our design concepts for living spaces when integrated with client ideas promise cosy, appealing, and distinguished living spaces ideally suited to extensive use. At the same time, we make sure to take on our client’s ideas with regard to aesthetic so that our final designs are a clear reflection of the identity of the clients we are working for.",
+    "client": "Private",
+    "Date": "6 August 2022",
+    "categories": [
+        {
+          "name": "Living",
+          "url": "#"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Minimal",
+          "url": "#"
+        },
+        {
+          "name": "Moderen",
+          "url": "#"
+        },
+        {
+          "name": "Design",
+          "url": "#"
+        }
+      ]
+  }
+  

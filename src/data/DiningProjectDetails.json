@@ -1,0 +1,53 @@
+{
+    "image": "/assets/img/portfolio/mas/dining/diningbg.png",
+    "images": [
+      {
+        "src": "/assets/img/portfolio/mas/dining/1.jpeg",
+        "alt": "Dining image 1"
+      },
+      {
+        "src": "/assets/img/portfolio/mas/dining/2.jpeg",
+        "alt": "Dining image 2"
+      },
+      {
+        "src": "/assets/img/portfolio/mas/dining/3.jpeg",
+        "alt": "Dining image 3"
+      },
+      {
+        "src": "/assets/img/portfolio/mas/dining/3.jpeg",
+        "alt": "Dining image 3"
+      },
+      {
+        "src": "/assets/img/portfolio/mas/dining/3.jpeg",
+        "alt": "Dining image 3"
+      },
+      {
+        "src": "/assets/img/portfolio/mas/dining/3.jpeg",
+        "alt": "Dining image 3"
+      }
+    ],
+    "text": "Whether you are looking to have the interior of your restaurant refurbished or only your dining space designed within your home, we got the skills and expertise to help you to achieve what you are looking for. Having worked on many  residential dining areas and numerous high traffic commercial dining spaces, we are confident to deliver on whatever your requirements may be.",
+    "client": "Private",
+    "Date": "6 August 2022",
+    "categories": [
+        {
+          "name": "Dining",
+          "url": "#"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Minimal",
+          "url": "#"
+        },
+        {
+          "name": "Moderen",
+          "url": "#"
+        },
+        {
+          "name": "Design",
+          "url": "#"
+        }
+      ]
+  }
+  

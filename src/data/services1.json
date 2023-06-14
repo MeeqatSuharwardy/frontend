@@ -1,0 +1,25 @@
+{
+  "image": "/assets/img/slid/2.jpg",
+  "services": [
+    {
+      "id": "01",
+      "title": "Architecture",
+      "content": ""
+    },
+    {
+      "id": "02",
+      "title": "Interior Design",
+      "content": ""
+    },
+    {
+      "id": "03",
+      "title": "3D Modeling",
+      "content": ""
+    },
+    {
+      "id": "04",
+      "title": "Furniture Design",
+      "content": ""
+    }
+  ]
+}

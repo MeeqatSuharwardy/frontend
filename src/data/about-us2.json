@@ -1,0 +1,25 @@
+{
+  "title": {
+    "first": "Best Designers",
+    "second": "Mundo Designs  "
+  },
+  "image1": "/assets/img/about/1.png",
+  "image2": "/assets/img/about/1.png",
+  "content": "Mundo Designs is a London based interior design studio founded in 2010 by Flor Barsallo, who after graduating with a BA Hons in Interior Architecture and Interior Design began working on projects within London as well as internationally, over the past thirteen years she has worked on a wide diversity of high-end profile projects across many industries including residential, retail and hospitality sectors. Our philosophy and our approach are to fully understand our client needs, lifestyle, ideologies, personalities and aesthetics preferences. In order to achieve luxurious bespoke highly functional interiors we offer a wide range of services to achieve everything within the design and build. We have highly skilled and experienced craftsmen, such as our joiners, furniture makers to create very unique elegant bespoke pieces to fitting with the design.  We also count with experienced team of workmen such as electricians, plumbers, decorators and builders to finish any project smoothly and professionally.",
+
+  "exp": 21,
+  "textList": [
+    {
+      "id": 1,
+      "name": "Architecture"
+    },
+    {
+      "id": 2,
+      "name": "Interior Design"
+    },
+    {
+      "id": 3,
+      "name": "Furniture"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+/* ProductCard.module.css */
+.productImage {
+  width: 20%;
+  height: auto;
+}
+
+.productCard {
+  width: 100%;
+  box-sizing: content-box;
+  background-color: white;
+  align-items: center;
+  padding-left: 10%;
+}
+
+.textcustom {
+  font-family: sans-serif; 
+  font-weight: bold;
+  font-size: medium;
+}
+
+/* Add mobile styles */
+@media (max-width: 767px) {
+  .productImage {
+    width: 49%;
+  }
+}

@@ -1,0 +1,53 @@
+{
+    "image": "/assets/img/portfolio/mas/furniture/furniturebg.png",
+    "images": [
+      {
+        "src": "/assets/img/portfolio/mas/furniture/1.jpg",
+        "alt": "Furniture image 1"
+      },
+      {
+        "src": "/assets/img/portfolio/mas/furniture/2.jpg",
+        "alt": "Furniture image 2"
+      },
+      {
+        "src": "/assets/img/portfolio/mas/furniture/3.jpg",
+        "alt": "Furniture image 3"
+      },
+      {
+        "src": "/assets/img/portfolio/mas/furniture/4.jpg",
+        "alt": "Furniture image 4"
+      },
+      {
+        "src": "/assets/img/portfolio/mas/furniture/5.jpg",
+        "alt": "Furniture image 5"
+      },
+      {
+        "src": "/assets/img/portfolio/mas/furniture/5.jpg",
+        "alt": "Furniture image 5"
+      }
+    ],
+    "text": "Anyone can put wood together to make a chair, nonetheless our in-house carpentry and furniture specialists create stunning bespoke pieces. Unlike to find anywhere else because we tailor every aspect to create a masterpiece. Our knowledge with furniture, will make your interior layout stand out. The knowledge and skills we offer will transform any place. We always take into account facts such as frequent usage. Do join us at Mundo, where together we can create eye catching pieces that are equally hard-wearing and functional.",
+    "client": "Private",
+    "Date": "6 August 2022",
+    "categories": [
+        {
+          "name": "Furniture",
+          "url": "#"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Minimal",
+          "url": "#"
+        },
+        {
+          "name": "Moderen",
+          "url": "#"
+        },
+        {
+          "name": "Design",
+          "url": "#"
+        }
+      ]
+  }
+  

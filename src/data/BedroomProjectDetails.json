@@ -1,0 +1,65 @@
+{
+    "image": "/assets/img/portfolio/mas/bedroom/bedroombg.png",
+    "images": [
+      {
+        "src": "/assets/img/portfolio/mas/bedroom/1.png",
+        "alt": "Kitchen image 1"
+      },
+      {
+        "src": "/assets/img/portfolio/mas/bedroom/2.png",
+        "alt": "Kitchen image 2"
+      },
+      {
+        "src": "/assets/img/portfolio/mas/bedroom/3.png",
+        "alt": "Kitchen image 3"
+      },
+      {
+        "src": "/assets/img/portfolio/mas/bedroom/4.png",
+        "alt": "Kitchen image 4"
+      },
+      {
+        "src": "/assets/img/portfolio/mas/bedroom/5.png",
+        "alt": "Kitchen image 5"
+      },
+      {
+        "src": "/assets/img/portfolio/mas/bedroom/5.png",
+        "alt": "Kitchen image 5"
+      },
+      {
+        "src": "/assets/img/portfolio/mas/bedroom/5.png",
+        "alt": "Kitchen image 5"
+      },
+      {
+        "src": "/assets/img/portfolio/mas/bedroom/5.png",
+        "alt": "Kitchen image 5"
+      },
+      {
+        "src": "/assets/img/portfolio/mas/bedroom/5.png",
+        "alt": "Kitchen image 5"
+      }
+    ],
+    "text": "Among our specialised services, bedroom design and furnishing is something we take particular pride in. Having designed bedroom spaces over different kinds over the years, we can say with certainty that our diverse and extensive knowledge and skills are adequate for the undertaking of a range of projects regardless of size or scope. From luxury bedrooms to multipurpose sleeping spaces, we can help you plan, design, and furnish a bedroom space that is not just comfortable, but also aesthetically appealing and highly functional. Get in touch with us for more details on bedroom design options we offer.",
+    "client": "Private",
+    "Date": "6 August 2022",
+    "categories": [ 
+        {
+          "name": "Kitchen",
+          "url": "#"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Minimal",
+          "url": "#"
+        },
+        {
+          "name": "Moderen",
+          "url": "#"
+        },
+        {
+          "name": "Design",
+          "url": "#"
+        }
+      ]
+  }
+  

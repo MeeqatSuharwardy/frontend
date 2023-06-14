@@ -1,0 +1,21 @@
+{
+    "mainbg": {
+        "image": "/assets/img/portfolio/full/01.jpg"
+      },
+    "kitchen": {
+      "image": "/assets/img/portfolio/full/kitchen.png"
+    },
+    "dining": {
+      "image": "/assets/img/portfolio/full/02.jpg"
+    },
+    "living": {
+      "image": "/assets/img/portfolio/full/03.jpg"
+    },
+    "bedroom": {
+      "image": "/assets/img/portfolio/full/04.jpg"
+    },
+    "outdoor": {
+      "image": "/assets/img/portfolio/full/05.jpg"
+    }
+  }
+  

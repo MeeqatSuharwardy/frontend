@@ -1,0 +1,57 @@
+{
+    "image": "/assets/img/portfolio/mas/bathroom/bathroombg.png",
+    "images": [
+      {
+        "src": "/assets/img/portfolio/mas/bathroom/1.png",
+        "alt": "Bathroom image 1"
+      },
+      {
+        "src": "/assets/img/portfolio/mas/bathroom/2.png",
+        "alt": "Bathroom image 2"
+      },
+      {
+        "src": "/assets/img/portfolio/mas/bathroom/3.png",
+        "alt": "Bathroom image 3"
+      },
+      {
+        "src": "/assets/img/portfolio/mas/bathroom/4.png",
+        "alt": "Bathroom image 4"
+      },
+      {
+        "src": "/assets/img/portfolio/mas/bathroom/5.png",
+        "alt": "Bathroom image 5"
+      },
+      {
+        "src": "/assets/img/portfolio/mas/bathroom/5.png",
+        "alt": "Bathroom image 5"
+      },
+      {
+        "src": "/assets/img/portfolio/mas/bathroom/5.png",
+        "alt": "Bathroom image 5"
+      }
+    ],
+    "text": "Every bathroom design is unique we work closely with our clients to achieve and suit their individual needs, we always consider the access, mobility within the space practicality, functionality, storage and visually pleasing as well and well as using the right materials and furniture !",
+    "client": "Private",
+    "Date": "6 August 2022",
+    "categories": [
+        {
+          "name": "Bathroom",
+          "url": "#"
+        }
+      ],
+      "tags": [
+        {
+          "name": "Minimal",
+          "url": "#"
+        },
+        {
+          "name": "Moderen",
+          "url": "#"
+        },
+        {
+          "name": "Design",
+          "url": "#"
+        }
+      ]
+  }
+  

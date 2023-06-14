@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": { "first": "Interrior", "second": "Mundo Designs" },
+    "content": {
+      "first": "Our interior design services include from Concept to Completion, ensuring a seamless and stress-free design process.",
+      "second": "We take pride on helping clients bring their practical and visual ideas to life, therefore attention to the finest details is very important to us."
+    },
+    "image": "/assets/img/slid/slide_1.jpg"
+  },
+  {
+    "id": 2,
+    "title": { "first": "Innovative", "second": "Interior Design" },
+    "content": {
+      "first": "Our aim is to work closely with our clients and transform their ideas and requirements into beautiful, sophisticated and highly functional bespoke interiors to reflect their identity and lifestyle.",
+      "second": "business. a style that makes a statement."
+    },
+    "image": "/assets/img/slid/slide_1.jpg"
+  },
+  {
+    "id": 3,
+    "title": { "first": "Technical", "second": "Design" },
+    "content": {
+      "first": "Our team will produce detailed drawings and specifications, ensuring everything is clear for the team on site to follow.",
+      "second": "As well as we provide 3D drawings for our clients with a realistic visual representation for their design."
+    },
+    "image": "/assets/img/slid/slide_1.jpg"
+  }
+]
+
+
+

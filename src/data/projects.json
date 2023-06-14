@@ -1,0 +1,23 @@
+{
+    "projects": [
+      {
+        "title": "Modern Townhouse",
+        "category": "theaters",
+        "image": "/assets/img/works/col/2.jpg",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet sapien auctor, bibendum enim in, venenatis mauris. Integer eget interdum dolor. Duis elementum urna elit, id hendrerit urna fermentum vel. Vestibulum vitae bibendum nisl."
+      },
+      {
+        "title": "Luxury Furniture",
+        "category": "fURNITURE",
+        "image": "/assets/img/works/col/1.jpg",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet sapien auctor, bibendum enim in, venenatis mauris. Integer eget interdum dolor. Duis elementum urna elit, id hendrerit urna fermentum vel. Vestibulum vitae bibendum nisl."
+      },
+      {
+        "title": "Minimalist Living Room",
+        "category": "residential",
+        "image": "/assets/img/works/col/5.jpg",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet sapien auctor, bibendum enim in, venenatis mauris. Integer eget interdum dolor. Duis elementum urna elit, id hendrerit urna fermentum vel. Vestibulum vitae bibendum nisl."
+      }
+    ]
+  }
+  
